@@ -69,13 +69,6 @@ Search is powered by a hybrid approach implemented in `src/data/mockResults.ts`:
 - Synonyms/aliases: `RN`, `frontend developer`, `product owner`, `brand manager`, `CSR`, `joiner`
 - Related phrases: `build dashboards sql`, `design bridges and roads`, `install water pipes`, `deploy ml pipelines`
 
-## Favicon / Tab Icon
-Place your custom icon at `public/mylogo.png` and ensure it’s referenced in `index.html`:
-```html
-<link rel="icon" type="image/png" href="/mylogo.png?v=1" />
-```
-Recommended sizes: 256×256 or 512×512 PNG. After replacing, hard refresh the browser (Ctrl+Shift+R).
-
 ## Deployment
 This app runs well on platforms like Vercel/Netlify.
 - For Vercel: import the repo, framework preset “Vite”, default build `npm run build` and output `dist/`.
@@ -88,4 +81,5 @@ This app runs well on platforms like Vercel/Netlify.
 
 ## License
 MIT
+
 
