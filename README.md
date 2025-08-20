@@ -1,6 +1,6 @@
 ## NCO Smart Search — AI-Powered Occupation Code Search
 
-[Live Demo](https://nco-find-smartly-e6lw57jpr-jaisimha-ks-projects.vercel.app)
+### DEPOLYED URL : [Live Demo](https://nco-find-smartly-e6lw57jpr-jaisimha-ks-projects.vercel.app)
 
 ### Overview
 NCO Smart Search helps users find relevant NCO-2015 occupation codes using a fast, user-friendly interface and intelligent matching (exact, synonym-based, and typo-tolerant fuzzy search).
@@ -88,3 +88,4 @@ This app runs well on platforms like Vercel/Netlify.
 
 ## License
 MIT
+
